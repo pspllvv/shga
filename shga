@@ -1,0 +1,2 @@
+apt install openssh
+$ ssh -R 80:localhost:8080 ssh.localhost.ru
